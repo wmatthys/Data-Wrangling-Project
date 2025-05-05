@@ -37,3 +37,19 @@ wmatthys_rtabares_DRAFT.ipynb contains the code that was used to derive the anal
 
 
 ## Data Dictionary
+
+| Column                     | Type    | Source            | Description                                                         |
+|----------------------------|---------|-------------------|---------------------------------------------------------------------|
+| Report ID                  | Numeric | la_crime2023       | Unique crime ID                                                     |
+| Arrest Date                | Date    | la_crime2023       | Date of crime                                                       |
+| Area ID                    | Numeric | la_crime2023       | Unique ID of Community                                              |
+| Community                  | Text    | both              | Neighborhood crime was committed in                                  |
+| Age                         | Numeric | la_crime2023       | Age of perpetrator                                                  |
+| Sex Code                   | Text    | la_crime2023       | Sex of perpetrator                                                  |
+| Charge Group Description   | Text    | la_crime2023       | Group of Charge (homicide, burglary, etc..)                         |
+| Charge Description         | Text    | la_crime2023       | Specifics of charge (Ex. Robbery → Carjacking)                      |
+| Address                    | Text    | la_crime2023       | Street address of crime committed                                   |
+| Percent Unemployed         | Numeric | unemployed_grouped | Percent of population in the community that is unemployed           |
+| Supervisor District        | Numeric | unemployed_grouped | District that the community is in (mainly used to group the data)   |
+
+
