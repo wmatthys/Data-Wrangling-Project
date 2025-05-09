@@ -23,11 +23,11 @@ A Descriptive and Analytic Analysis of Crime vs. Unemployment in Nine L.A Neighb
 
 
 ## Project Overview
-We are analyzing the effect that unemployment has on crime in various neighborhoods in L.A
+We are analyzing the effect that unemployment has on crime in various neighborhoods in L.A. This will be an analysis done on nine communities in the Los Angeles area and their respective unemployment rates. 
 
 
 ## Project Code
-wmatthys_rtabares_DRAFT.ipynb contains the code that was used to derive the analysis out of the data. 
+wmatthys_rtabares_DRAFT.ipynb (beta) and wmatthys_rtabares_project.ipynb (final) contains the code that was used to derive the analysis out of the data. 
 
 
 ## Sources of Data
